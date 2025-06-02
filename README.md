@@ -1,4 +1,4 @@
-# ShortLoop+ v5.5
+# ShortLoop+ 
 
 ![Logo](icon128.png)
 
